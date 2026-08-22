@@ -1,0 +1,21 @@
+{
+    "membershipsApplicant": "Applicant",
+    "membershipsApplicationDate": "Application date",
+    "membershipsApplications": "Membership applications",
+    "membershipsApprovalRequired": "Approval required",
+    "membershipsCode": "Code",
+    "membershipsCurrency": "Currency",
+    "membershipsDescription": "Description",
+    "membershipsDurationDays": "Duration in days",
+    "membershipsEndDate": "End date",
+    "membershipsFee": "Fee",
+    "membershipsMember": "Member",
+    "membershipsMemberNumber": "Member number",
+    "membershipsMembershipType": "Membership type",
+    "membershipsMembershipTypes": "Membership types",
+    "membershipsMemberships": "Memberships",
+    "membershipsNotes": "Notes",
+    "membershipsNumber": "Number",
+    "membershipsStartDate": "Start date",
+    "membershipsStatus": "Status"
+}

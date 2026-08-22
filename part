@@ -1,0 +1,54 @@
+membershipApplicationStatus options
+    submitted
+    underReview
+    approved
+    rejected
+    withdrawn
+membershipStatus options
+    pending
+    active
+    suspended
+    expired
+    cancelled
+membershipType
+    title
+    code
+    durationDays integer optional
+    fee realNumber optional
+    currency optional
+    approvalRequired yesNo optional
+    description optional
+    unique code
+membershipBenefit
+    title
+    code
+    description optional
+    unique code
+membershipTypeBenefit
+    membershipType
+    membershipBenefit
+    description optional
+    unique membershipType membershipBenefit
+membershipApplication
+    number
+    applicant
+    membershipType
+    applicationDate
+    membershipApplicationStatus
+    notes optional
+    unique number
+membership
+    memberNumber
+    member
+    membershipType
+    startDate
+    endDate optional
+    membershipStatus
+    subscription optional
+    unique memberNumber
+membershipRenewal
+    membership
+    renewalDate
+    previousEndDate optional
+    newEndDate
+    payment optional

@@ -1,0 +1,21 @@
+{
+    "membershipsApplicant": "متقاضی",
+    "membershipsApplicationDate": "تاریخ درخواست",
+    "membershipsApplications": "درخواست‌های عضویت",
+    "membershipsApprovalRequired": "نیازمند تأیید",
+    "membershipsCode": "کد",
+    "membershipsCurrency": "ارز",
+    "membershipsDescription": "توضیحات",
+    "membershipsDurationDays": "مدت به روز",
+    "membershipsEndDate": "تاریخ پایان",
+    "membershipsFee": "هزینه عضویت",
+    "membershipsMember": "عضو",
+    "membershipsMemberNumber": "شماره عضویت",
+    "membershipsMembershipType": "نوع عضویت",
+    "membershipsMembershipTypes": "انواع عضویت",
+    "membershipsMemberships": "عضویت‌ها",
+    "membershipsNotes": "یادداشت‌ها",
+    "membershipsNumber": "شماره",
+    "membershipsStartDate": "تاریخ شروع",
+    "membershipsStatus": "وضعیت"
+}
