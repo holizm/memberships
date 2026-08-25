@@ -31,7 +31,7 @@ const inputs = <>
         property='approvalRequired'
     />
     <LongText
-        placeholder='membershipsDescription'
+        placeholder='coreDescription'
         property='description'
     />
 </>

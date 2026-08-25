@@ -40,8 +40,8 @@ const inputs = <>
         required
     />
     <LongText
-        placeholder='membershipsNotes'
-        property='notes'
+        placeholder='coreDescription'
+        property='description'
     />
 </>
 

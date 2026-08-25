@@ -5,7 +5,6 @@
     "membershipsApprovalRequired": "Approval required",
     "membershipsCode": "Code",
     "membershipsCurrency": "Currency",
-    "membershipsDescription": "Description",
     "membershipsDurationDays": "Duration in days",
     "membershipsEndDate": "End date",
     "membershipsFee": "Fee",
@@ -14,7 +13,6 @@
     "membershipsMembershipType": "Membership type",
     "membershipsMembershipTypes": "Membership types",
     "membershipsMemberships": "Memberships",
-    "membershipsNotes": "Notes",
     "membershipsNumber": "Number",
     "membershipsStartDate": "Start date",
     "membershipsStatus": "Status"
