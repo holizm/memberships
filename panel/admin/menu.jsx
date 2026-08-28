@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'cardMembership',
+        path: '/memberships',
         title: 'membershipsMemberships',
     },
 ]
