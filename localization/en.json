@@ -1,0 +1,28 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "applicant": "Applicant",
+        "applicationDate": "Application date",
+        "applications": "Membership applications",
+        "approvalRequired": "Approval required",
+        "code": "Code",
+        "currency": "Currency",
+        "durationDays": "Duration in days",
+        "endDate": "End date",
+        "fee": "Fee",
+        "member": "Member",
+        "memberNumber": "Member number",
+        "membershipType": "Membership type",
+        "membershipTypes": "Membership types",
+        "memberships": "Memberships",
+        "number": "Number",
+        "startDate": "Start date",
+        "status": "Status"
+    },
+    "site": {
+        "apply": "Apply for membership",
+        "memberNumber": "Member number",
+        "status": "Membership status"
+    }
+}
