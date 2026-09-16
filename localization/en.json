@@ -10,7 +10,6 @@
         "member": "Member",
         "membershipType": "Membership type",
         "membershipTypes": "Membership types",
-        "memberships": "Memberships",
-        "status": "Membership status"
+        "memberships": "Memberships"
     }
 }

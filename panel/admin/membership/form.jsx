@@ -38,7 +38,7 @@ const inputs = <>
             'expired',
             'cancelled',
         ]}
-        placeholder='membershipsStatus'
+        placeholder='stateMachinesState'
         property='membershipStatus'
         required
     />

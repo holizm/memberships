@@ -35,7 +35,7 @@ const inputs = <>
             'rejected',
             'withdrawn',
         ]}
-        placeholder='membershipsStatus'
+        placeholder='stateMachinesState'
         property='membershipApplicationStatus'
         required
     />
