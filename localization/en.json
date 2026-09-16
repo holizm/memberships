@@ -1,7 +1,6 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "memberNumber": "Member number",
         "applicant": "Applicant",
         "applicationDate": "Application date",
         "applications": "Membership applications",
@@ -12,17 +11,12 @@
         "endDate": "End date",
         "fee": "Fee",
         "member": "Member",
-        "memberNumber": "Member number",
         "membershipType": "Membership type",
         "membershipTypes": "Membership types",
         "memberships": "Memberships",
         "number": "Number",
         "startDate": "Start date",
-        "status": "Status"
-    },
-    "site": {
-        "apply": "Apply for membership",
-        "memberNumber": "Member number",
-        "status": "Membership status"
+        "status": "Membership status",
+        "apply": "Apply for membership"
     }
 }
