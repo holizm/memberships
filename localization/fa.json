@@ -5,17 +5,12 @@
         "applicationDate": "تاریخ درخواست",
         "applications": "درخواست‌های عضویت",
         "approvalRequired": "نیازمند تأیید",
-        "code": "کد",
-        "currency": "ارز",
         "durationDays": "مدت به روز",
-        "endDate": "تاریخ پایان",
         "fee": "هزینه عضویت",
         "member": "عضو",
         "membershipType": "نوع عضویت",
         "membershipTypes": "انواع عضویت",
         "memberships": "عضویت‌ها",
-        "number": "شماره",
-        "startDate": "تاریخ شروع",
         "status": "وضعیت عضویت",
         "apply": "درخواست عضویت"
     }
