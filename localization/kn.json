@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "ಸದಸ್ಯ ಸಂಖ್ಯೆ",
+        "applicant": "ಅರ್ಜಿದಾರ",
+        "applicationDate": "ಅರ್ಜಿ ದಿನಾಂಕ",
+        "applications": "ಸದಸ್ಯತ್ವ ಅರ್ಜಿಗಳು",
+        "approvalRequired": "ಅನುಮೋದನೆ ಅಗತ್ಯ",
+        "durationDays": "ದಿನಗಳಲ್ಲಿ ಅವಧಿ",
+        "fee": "ಶುಲ್ಕ",
+        "member": "ಸದಸ್ಯ",
+        "membershipType": "ಸದಸ್ಯತ್ವದ ವಿಧ",
+        "membershipTypes": "ಸದಸ್ಯತ್ವದ ವಿಧಗಳು",
+        "memberships": "ಸದಸ್ಯತ್ವಗಳು"
+    }
+}

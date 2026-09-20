@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "അംഗ നമ്പർ",
+        "applicant": "അപേക്ഷകൻ",
+        "applicationDate": "അപേക്ഷാ തീയതി",
+        "applications": "അംഗത്വ അപേക്ഷകൾ",
+        "approvalRequired": "അംഗീകാരം ആവശ്യമാണ്",
+        "durationDays": "ദിവസങ്ങളിലെ കാലാവധി",
+        "fee": "ഫീസ്",
+        "member": "അംഗം",
+        "membershipType": "അംഗത്വ തരം",
+        "membershipTypes": "അംഗത്വ തരങ്ങൾ",
+        "memberships": "അംഗത്വങ്ങൾ"
+    }
+}

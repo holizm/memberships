@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "အဖွဲ့ဝင်နံပါတ်",
+        "applicant": "လျှောက်ထားသူ",
+        "applicationDate": "လျှောက်ထားသည့်ရက်",
+        "applications": "အဖွဲ့ဝင် လျှောက်လွှာများ",
+        "approvalRequired": "အတည်ပြုချက် လိုအပ်သည်",
+        "durationDays": "ရက်အလိုက် သက်တမ်း",
+        "fee": "အခကြေးငွေ",
+        "member": "အဖွဲ့ဝင်",
+        "membershipType": "အဖွဲ့ဝင်အမျိုးအစား",
+        "membershipTypes": "အဖွဲ့ဝင်အမျိုးအစားများ",
+        "memberships": "အဖွဲ့ဝင်မှုများ"
+    }
+}

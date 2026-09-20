@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "உறுப்பினர் எண்",
+        "applicant": "விண்ணப்பதாரர்",
+        "applicationDate": "விண்ணப்ப தேதி",
+        "applications": "உறுப்பினர் விண்ணப்பங்கள்",
+        "approvalRequired": "ஒப்புதல் தேவை",
+        "durationDays": "நாட்களில் காலம்",
+        "fee": "கட்டணம்",
+        "member": "உறுப்பினர்",
+        "membershipType": "உறுப்பினர் வகை",
+        "membershipTypes": "உறுப்பினர் வகைகள்",
+        "memberships": "உறுப்பினர் நிலைகள்"
+    }
+}

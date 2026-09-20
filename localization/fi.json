@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Jäsennumero",
+        "applicant": "Hakija",
+        "applicationDate": "Hakemuspäivä",
+        "applications": "Jäsenyyshakemukset",
+        "approvalRequired": "Hyväksyntä vaaditaan",
+        "durationDays": "Kesto päivinä",
+        "fee": "Jäsenmaksu",
+        "member": "Jäsen",
+        "membershipType": "Jäsenyyden tyyppi",
+        "membershipTypes": "Jäsenyyden tyypit",
+        "memberships": "Jäsenyydet"
+    }
+}

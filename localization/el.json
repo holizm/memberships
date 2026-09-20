@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Αριθμός μέλους",
+        "applicant": "Αιτών",
+        "applicationDate": "Ημερομηνία αίτησης",
+        "applications": "Αιτήσεις μέλους",
+        "approvalRequired": "Απαιτείται έγκριση",
+        "durationDays": "Διάρκεια σε ημέρες",
+        "fee": "Συνδρομή",
+        "member": "Μέλος",
+        "membershipType": "Τύπος συνδρομής",
+        "membershipTypes": "Τύποι συνδρομής",
+        "memberships": "Συνδρομές"
+    }
+}

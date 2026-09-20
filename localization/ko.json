@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "회원 번호",
+        "applicant": "신청자",
+        "applicationDate": "신청일",
+        "applications": "회원 가입 신청",
+        "approvalRequired": "승인 필요",
+        "durationDays": "기간(일)",
+        "fee": "회비",
+        "member": "회원",
+        "membershipType": "회원 유형",
+        "membershipTypes": "회원 유형",
+        "memberships": "회원 자격"
+    }
+}

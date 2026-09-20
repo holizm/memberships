@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Numero ng miyembro",
+        "applicant": "Aplikante",
+        "applicationDate": "Petsa ng aplikasyon",
+        "applications": "Mga aplikasyon sa pagiging miyembro",
+        "approvalRequired": "Kailangan ng pag-apruba",
+        "durationDays": "Tagal sa mga araw",
+        "fee": "Bayad",
+        "member": "Miyembro",
+        "membershipType": "Uri ng pagiging miyembro",
+        "membershipTypes": "Mga uri ng pagiging miyembro",
+        "memberships": "Mga pagiging miyembro"
+    }
+}

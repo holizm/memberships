@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Nomor anggota",
+        "applicant": "Pemohon",
+        "applicationDate": "Tanggal permohonan",
+        "applications": "Permohonan keanggotaan",
+        "approvalRequired": "Memerlukan persetujuan",
+        "durationDays": "Durasi dalam hari",
+        "fee": "Iuran",
+        "member": "Anggota",
+        "membershipType": "Jenis keanggotaan",
+        "membershipTypes": "Jenis keanggotaan",
+        "memberships": "Keanggotaan"
+    }
+}

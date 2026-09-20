@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Mã thành viên",
+        "applicant": "Người đăng ký",
+        "applicationDate": "Ngày đăng ký",
+        "applications": "Đơn đăng ký thành viên",
+        "approvalRequired": "Cần phê duyệt",
+        "durationDays": "Thời hạn theo ngày",
+        "fee": "Phí",
+        "member": "Thành viên",
+        "membershipType": "Loại thành viên",
+        "membershipTypes": "Các loại thành viên",
+        "memberships": "Tư cách thành viên"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Členské číslo",
+        "applicant": "Žadatel",
+        "applicationDate": "Datum žádosti",
+        "applications": "Žádosti o členství",
+        "approvalRequired": "Vyžaduje schválení",
+        "durationDays": "Doba trvání ve dnech",
+        "fee": "Poplatek",
+        "member": "Člen",
+        "membershipType": "Typ členství",
+        "membershipTypes": "Typy členství",
+        "memberships": "Členství"
+    }
+}

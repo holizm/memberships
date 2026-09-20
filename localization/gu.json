@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "સભ્ય નંબર",
+        "applicant": "અરજદાર",
+        "applicationDate": "અરજીની તારીખ",
+        "applications": "સભ્યપદ અરજીઓ",
+        "approvalRequired": "મંજૂરી જરૂરી",
+        "durationDays": "દિવસોમાં અવધિ",
+        "fee": "ફી",
+        "member": "સભ્ય",
+        "membershipType": "સભ્યપદ પ્રકાર",
+        "membershipTypes": "સભ્યપદ પ્રકારો",
+        "memberships": "સભ્યપદો"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "מספר חבר",
+        "applicant": "מגיש הבקשה",
+        "applicationDate": "תאריך הבקשה",
+        "applications": "בקשות חברות",
+        "approvalRequired": "נדרש אישור",
+        "durationDays": "משך בימים",
+        "fee": "דמי חברות",
+        "member": "חבר",
+        "membershipType": "סוג חברות",
+        "membershipTypes": "סוגי חברות",
+        "memberships": "חברויות"
+    }
+}

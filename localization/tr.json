@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Üye numarası",
+        "applicant": "Başvuru sahibi",
+        "applicationDate": "Başvuru tarihi",
+        "applications": "Üyelik başvuruları",
+        "approvalRequired": "Onay gerekli",
+        "durationDays": "Gün cinsinden süre",
+        "fee": "Ücret",
+        "member": "Üye",
+        "membershipType": "Üyelik türü",
+        "membershipTypes": "Üyelik türleri",
+        "memberships": "Üyelikler"
+    }
+}

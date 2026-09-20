@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "ਮੈਂਬਰ ਨੰਬਰ",
+        "applicant": "ਬਿਨੈਕਾਰ",
+        "applicationDate": "ਅਰਜ਼ੀ ਦੀ ਮਿਤੀ",
+        "applications": "ਮੈਂਬਰਸ਼ਿਪ ਅਰਜ਼ੀਆਂ",
+        "approvalRequired": "ਮਨਜ਼ੂਰੀ ਲੋੜੀਂਦੀ ਹੈ",
+        "durationDays": "ਦਿਨਾਂ ਵਿੱਚ ਮਿਆਦ",
+        "fee": "ਫੀਸ",
+        "member": "ਮੈਂਬਰ",
+        "membershipType": "ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਕਿਸਮ",
+        "membershipTypes": "ਮੈਂਬਰਸ਼ਿਪ ਦੀਆਂ ਕਿਸਮਾਂ",
+        "memberships": "ਮੈਂਬਰਸ਼ਿਪਾਂ"
+    }
+}

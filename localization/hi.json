@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "सदस्य संख्या",
+        "applicant": "आवेदक",
+        "applicationDate": "आवेदन तिथि",
+        "applications": "सदस्यता आवेदन",
+        "approvalRequired": "अनुमोदन आवश्यक",
+        "durationDays": "दिनों में अवधि",
+        "fee": "शुल्क",
+        "member": "सदस्य",
+        "membershipType": "सदस्यता प्रकार",
+        "membershipTypes": "सदस्यता प्रकार",
+        "memberships": "सदस्यताएँ"
+    }
+}

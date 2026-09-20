@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "会员编号",
+        "applicant": "申请人",
+        "applicationDate": "申请日期",
+        "applications": "会员申请",
+        "approvalRequired": "需要审批",
+        "durationDays": "有效天数",
+        "fee": "费用",
+        "member": "会员",
+        "membershipType": "会员类型",
+        "membershipTypes": "会员类型",
+        "memberships": "会员资格"
+    }
+}

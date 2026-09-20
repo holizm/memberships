@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "หมายเลขสมาชิก",
+        "applicant": "ผู้สมัคร",
+        "applicationDate": "วันที่สมัคร",
+        "applications": "ใบสมัครสมาชิก",
+        "approvalRequired": "ต้องได้รับการอนุมัติ",
+        "durationDays": "ระยะเวลาเป็นวัน",
+        "fee": "ค่าธรรมเนียม",
+        "member": "สมาชิก",
+        "membershipType": "ประเภทสมาชิก",
+        "membershipTypes": "ประเภทสมาชิก",
+        "memberships": "การเป็นสมาชิก"
+    }
+}

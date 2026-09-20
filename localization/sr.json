@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Члански број",
+        "applicant": "Подносилац захтева",
+        "applicationDate": "Датум пријаве",
+        "applications": "Захтеви за чланство",
+        "approvalRequired": "Потребно одобрење",
+        "durationDays": "Трајање у данима",
+        "fee": "Чланарина",
+        "member": "Члан",
+        "membershipType": "Врста чланства",
+        "membershipTypes": "Врсте чланства",
+        "memberships": "Чланства"
+    }
+}

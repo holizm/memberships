@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "সদস্য নম্বর",
+        "applicant": "আবেদনকারী",
+        "applicationDate": "আবেদনের তারিখ",
+        "applications": "সদস্যপদের আবেদন",
+        "approvalRequired": "অনুমোদন প্রয়োজন",
+        "durationDays": "দিনে মেয়াদ",
+        "fee": "ফি",
+        "member": "সদস্য",
+        "membershipType": "সদস্যপদের ধরন",
+        "membershipTypes": "সদস্যপদের ধরনসমূহ",
+        "memberships": "সদস্যপদ"
+    }
+}

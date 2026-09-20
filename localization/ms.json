@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Nombor ahli",
+        "applicant": "Pemohon",
+        "applicationDate": "Tarikh permohonan",
+        "applications": "Permohonan keahlian",
+        "approvalRequired": "Kelulusan diperlukan",
+        "durationDays": "Tempoh dalam hari",
+        "fee": "Yuran",
+        "member": "Ahli",
+        "membershipType": "Jenis keahlian",
+        "membershipTypes": "Jenis keahlian",
+        "memberships": "Keahlian"
+    }
+}

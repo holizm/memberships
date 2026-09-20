@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Medlemsnummer",
+        "applicant": "Ansøger",
+        "applicationDate": "Ansøgningsdato",
+        "applications": "Medlemsansøgninger",
+        "approvalRequired": "Godkendelse påkrævet",
+        "durationDays": "Varighed i dage",
+        "fee": "Kontingent",
+        "member": "Medlem",
+        "membershipType": "Medlemskabstype",
+        "membershipTypes": "Medlemskabstyper",
+        "memberships": "Medlemskaber"
+    }
+}

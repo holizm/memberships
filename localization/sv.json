@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Medlemsnummer",
+        "applicant": "Sökande",
+        "applicationDate": "Ansökningsdatum",
+        "applications": "Medlemsansökningar",
+        "approvalRequired": "Godkännande krävs",
+        "durationDays": "Varaktighet i dagar",
+        "fee": "Avgift",
+        "member": "Medlem",
+        "membershipType": "Medlemskapstyp",
+        "membershipTypes": "Medlemskapstyper",
+        "memberships": "Medlemskap"
+    }
+}

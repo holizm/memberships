@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "رکن نمبر",
+        "applicant": "درخواست دہندہ",
+        "applicationDate": "درخواست کی تاریخ",
+        "applications": "رکنیت کی درخواستیں",
+        "approvalRequired": "منظوری درکار ہے",
+        "durationDays": "دنوں میں مدت",
+        "fee": "فیس",
+        "member": "رکن",
+        "membershipType": "رکنیت کی قسم",
+        "membershipTypes": "رکنیت کی اقسام",
+        "memberships": "رکنیتیں"
+    }
+}

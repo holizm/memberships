@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Nọ́mbà ọmọ ẹgbẹ́",
+        "applicant": "Olùbẹ̀wẹ̀",
+        "applicationDate": "Ọjọ́ ìbẹ̀wẹ̀",
+        "applications": "Àwọn ìbẹ̀wẹ̀ ọmọ ẹgbẹ́",
+        "approvalRequired": "Ìfọwọ́sí pọndandan",
+        "durationDays": "Àkókò ní ọjọ́",
+        "fee": "Owó ìforúkọsílẹ̀",
+        "member": "Ọmọ ẹgbẹ́",
+        "membershipType": "Irú ọmọ ẹgbẹ́",
+        "membershipTypes": "Àwọn irú ọmọ ẹgbẹ́",
+        "memberships": "Àwọn ọmọ ẹgbẹ́"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Număr de membru",
+        "applicant": "Solicitant",
+        "applicationDate": "Data cererii",
+        "applications": "Cereri de aderare",
+        "approvalRequired": "Este necesară aprobarea",
+        "durationDays": "Durată în zile",
+        "fee": "Cotizație",
+        "member": "Membru",
+        "membershipType": "Tip de membru",
+        "membershipTypes": "Tipuri de membri",
+        "memberships": "Calități de membru"
+    }
+}

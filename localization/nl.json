@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Lidnummer",
+        "applicant": "Aanvrager",
+        "applicationDate": "Aanvraagdatum",
+        "applications": "Lidmaatschapsaanvragen",
+        "approvalRequired": "Goedkeuring vereist",
+        "durationDays": "Duur in dagen",
+        "fee": "Contributie",
+        "member": "Lid",
+        "membershipType": "Lidmaatschapstype",
+        "membershipTypes": "Lidmaatschapstypen",
+        "memberships": "Lidmaatschappen"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Номер участника",
+        "applicant": "Заявитель",
+        "applicationDate": "Дата подачи заявки",
+        "applications": "Заявки на членство",
+        "approvalRequired": "Требуется одобрение",
+        "durationDays": "Срок в днях",
+        "fee": "Взнос",
+        "member": "Участник",
+        "membershipType": "Тип членства",
+        "membershipTypes": "Типы членства",
+        "memberships": "Членство"
+    }
+}

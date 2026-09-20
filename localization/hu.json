@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Tagsági szám",
+        "applicant": "Kérelmező",
+        "applicationDate": "Kérelem dátuma",
+        "applications": "Tagsági kérelmek",
+        "approvalRequired": "Jóváhagyás szükséges",
+        "durationDays": "Időtartam napokban",
+        "fee": "Tagdíj",
+        "member": "Tag",
+        "membershipType": "Tagság típusa",
+        "membershipTypes": "Tagsági típusok",
+        "memberships": "Tagságok"
+    }
+}

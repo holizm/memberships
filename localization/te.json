@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "సభ్యత్వ సంఖ్య",
+        "applicant": "దరఖాస్తుదారు",
+        "applicationDate": "దరఖాస్తు తేదీ",
+        "applications": "సభ్యత్వ దరఖాస్తులు",
+        "approvalRequired": "ఆమోదం అవసరం",
+        "durationDays": "రోజుల్లో వ్యవధి",
+        "fee": "రుసుము",
+        "member": "సభ్యుడు",
+        "membershipType": "సభ్యత్వ రకం",
+        "membershipTypes": "సభ్యత్వ రకాలు",
+        "memberships": "సభ్యత్వాలు"
+    }
+}

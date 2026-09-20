@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Número de miembro",
+        "applicant": "Solicitante",
+        "applicationDate": "Fecha de solicitud",
+        "applications": "Solicitudes de membresía",
+        "approvalRequired": "Requiere aprobación",
+        "durationDays": "Duración en días",
+        "fee": "Cuota",
+        "member": "Miembro",
+        "membershipType": "Tipo de membresía",
+        "membershipTypes": "Tipos de membresía",
+        "memberships": "Membresías"
+    }
+}

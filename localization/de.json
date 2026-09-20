@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Mitgliedsnummer",
+        "applicant": "Antragsteller",
+        "applicationDate": "Antragsdatum",
+        "applications": "Mitgliedsanträge",
+        "approvalRequired": "Genehmigung erforderlich",
+        "durationDays": "Dauer in Tagen",
+        "fee": "Beitrag",
+        "member": "Mitglied",
+        "membershipType": "Mitgliedschaftsart",
+        "membershipTypes": "Mitgliedschaftsarten",
+        "memberships": "Mitgliedschaften"
+    }
+}

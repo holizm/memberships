@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Número de membro",
+        "applicant": "Requerente",
+        "applicationDate": "Data da candidatura",
+        "applications": "Candidaturas de adesão",
+        "approvalRequired": "Aprovação necessária",
+        "durationDays": "Duração em dias",
+        "fee": "Quota",
+        "member": "Membro",
+        "membershipType": "Tipo de adesão",
+        "membershipTypes": "Tipos de adesão",
+        "memberships": "Adesões"
+    }
+}

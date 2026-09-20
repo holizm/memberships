@@ -1,0 +1,15 @@
+{
+    "common": {
+        "memberNumber": "Членски номер",
+        "applicant": "Кандидат",
+        "applicationDate": "Дата на кандидатстване",
+        "applications": "Заявления за членство",
+        "approvalRequired": "Изисква се одобрение",
+        "durationDays": "Продължителност в дни",
+        "fee": "Такса",
+        "member": "Член",
+        "membershipType": "Вид членство",
+        "membershipTypes": "Видове членство",
+        "memberships": "Членства"
+    }
+}
