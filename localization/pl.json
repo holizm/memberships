@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Numer członkowski",
         "applicant": "Wnioskodawca",
         "applicationDate": "Data złożenia wniosku",
-        "applications": "Wnioski o członkostwo",
         "approvalRequired": "Wymagane zatwierdzenie",
         "durationDays": "Czas trwania w dniach",
         "fee": "Opłata",
         "member": "Członek",
+        "memberNumber": "Numer członkowski",
+        "membership": "Członkostwo",
+        "membershipApplication": "Wniosek o członkostwo",
+        "membershipApplications": "Wnioski o członkostwo",
+        "membershipBenefit": "Korzyść członkostwa",
+        "membershipBenefits": "Korzyści członkostwa",
+        "membershipRenewal": "Odnowienie członkostwa",
+        "membershipRenewals": "Odnowienia członkostwa",
         "membershipType": "Typ członkostwa",
+        "membershipTypeBenefit": "Typ członkostwa – Korzyść członkostwa",
+        "membershipTypeBenefits": "Typ członkostwa – Korzyści członkostwa",
         "membershipTypes": "Typy członkostwa",
         "memberships": "Członkostwa"
     }

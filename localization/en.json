@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Member number",
         "applicant": "Applicant",
         "applicationDate": "Application date",
-        "applications": "Membership applications",
         "approvalRequired": "Approval required",
         "durationDays": "Duration in days",
         "fee": "Fee",
         "member": "Member",
+        "memberNumber": "Member number",
+        "membership": "Membership",
+        "membershipApplication": "Membership application",
+        "membershipApplications": "Membership applications",
+        "membershipBenefit": "Membership benefit",
+        "membershipBenefits": "Membership benefits",
+        "membershipRenewal": "Membership renewal",
+        "membershipRenewals": "Membership renewals",
         "membershipType": "Membership type",
+        "membershipTypeBenefit": "Membership type – Membership benefit",
+        "membershipTypeBenefits": "Membership type – Membership benefits",
         "membershipTypes": "Membership types",
         "memberships": "Memberships"
     }

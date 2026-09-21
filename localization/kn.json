@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "ಸದಸ್ಯ ಸಂಖ್ಯೆ",
         "applicant": "ಅರ್ಜಿದಾರ",
         "applicationDate": "ಅರ್ಜಿ ದಿನಾಂಕ",
-        "applications": "ಸದಸ್ಯತ್ವ ಅರ್ಜಿಗಳು",
         "approvalRequired": "ಅನುಮೋದನೆ ಅಗತ್ಯ",
         "durationDays": "ದಿನಗಳಲ್ಲಿ ಅವಧಿ",
         "fee": "ಶುಲ್ಕ",
         "member": "ಸದಸ್ಯ",
+        "memberNumber": "ಸದಸ್ಯ ಸಂಖ್ಯೆ",
+        "membership": "ಸದಸ್ಯತ್ವ",
+        "membershipApplication": "ಸದಸ್ಯತ್ವ ಅರ್ಜಿ",
+        "membershipApplications": "ಸದಸ್ಯತ್ವ ಅರ್ಜಿಗಳು",
+        "membershipBenefit": "ಸದಸ್ಯತ್ವ ಪ್ರಯೋಜನ",
+        "membershipBenefits": "ಸದಸ್ಯತ್ವ ಪ್ರಯೋಜನಗಳು",
+        "membershipRenewal": "ಸದಸ್ಯತ್ವ ನವೀಕರಣ",
+        "membershipRenewals": "ಸದಸ್ಯತ್ವ ನವೀಕರಣಗಳು",
         "membershipType": "ಸದಸ್ಯತ್ವದ ವಿಧ",
+        "membershipTypeBenefit": "ಸದಸ್ಯತ್ವದ ವಿಧ – ಸದಸ್ಯತ್ವ ಪ್ರಯೋಜನ",
+        "membershipTypeBenefits": "ಸದಸ್ಯತ್ವದ ವಿಧ – ಸದಸ್ಯತ್ವ ಪ್ರಯೋಜನಗಳು",
         "membershipTypes": "ಸದಸ್ಯತ್ವದ ವಿಧಗಳು",
         "memberships": "ಸದಸ್ಯತ್ವಗಳು"
     }

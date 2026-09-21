@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Medlemsnummer",
         "applicant": "Sökande",
         "applicationDate": "Ansökningsdatum",
-        "applications": "Medlemsansökningar",
         "approvalRequired": "Godkännande krävs",
         "durationDays": "Varaktighet i dagar",
         "fee": "Avgift",
         "member": "Medlem",
+        "memberNumber": "Medlemsnummer",
+        "membership": "Medlemskap",
+        "membershipApplication": "Medlemsansökan",
+        "membershipApplications": "Medlemsansökningar",
+        "membershipBenefit": "Medlemsförmån",
+        "membershipBenefits": "Medlemsförmåner",
+        "membershipRenewal": "Förnyelse av medlemskap",
+        "membershipRenewals": "Förnyelser av medlemskap",
         "membershipType": "Medlemskapstyp",
+        "membershipTypeBenefit": "Medlemskapstyp – Medlemsförmån",
+        "membershipTypeBenefits": "Medlemskapstyp – Medlemsförmåner",
         "membershipTypes": "Medlemskapstyper",
         "memberships": "Medlemskap"
     }

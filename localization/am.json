@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "የአባልነት ቁጥር",
         "applicant": "አመልካች",
         "applicationDate": "የማመልከቻ ቀን",
-        "applications": "የአባልነት ማመልከቻዎች",
         "approvalRequired": "ማጽደቅ ያስፈልጋል",
         "durationDays": "ቆይታ በቀናት",
         "fee": "ክፍያ",
         "member": "አባል",
+        "memberNumber": "የአባልነት ቁጥር",
+        "membership": "አባልነት",
+        "membershipApplication": "የአባልነት ማመልከቻ",
+        "membershipApplications": "የአባልነት ማመልከቻዎች",
+        "membershipBenefit": "የአባልነት ጥቅም",
+        "membershipBenefits": "የአባልነት ጥቅሞች",
+        "membershipRenewal": "የአባልነት እድሳት",
+        "membershipRenewals": "የአባልነት እድሳቶች",
         "membershipType": "የአባልነት ዓይነት",
+        "membershipTypeBenefit": "የአባልነት ዓይነት – የአባልነት ጥቅም",
+        "membershipTypeBenefits": "የአባልነት ዓይነት – የአባልነት ጥቅሞች",
         "membershipTypes": "የአባልነት ዓይነቶች",
         "memberships": "አባልነቶች"
     }

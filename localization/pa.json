@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "ਮੈਂਬਰ ਨੰਬਰ",
         "applicant": "ਬਿਨੈਕਾਰ",
         "applicationDate": "ਅਰਜ਼ੀ ਦੀ ਮਿਤੀ",
-        "applications": "ਮੈਂਬਰਸ਼ਿਪ ਅਰਜ਼ੀਆਂ",
         "approvalRequired": "ਮਨਜ਼ੂਰੀ ਲੋੜੀਂਦੀ ਹੈ",
         "durationDays": "ਦਿਨਾਂ ਵਿੱਚ ਮਿਆਦ",
         "fee": "ਫੀਸ",
         "member": "ਮੈਂਬਰ",
+        "memberNumber": "ਮੈਂਬਰ ਨੰਬਰ",
+        "membership": "ਮੈਂਬਰਸ਼ਿਪ",
+        "membershipApplication": "ਮੈਂਬਰਸ਼ਿਪ ਅਰਜ਼ੀ",
+        "membershipApplications": "ਮੈਂਬਰਸ਼ਿਪ ਅਰਜ਼ੀਆਂ",
+        "membershipBenefit": "ਮੈਂਬਰਸ਼ਿਪ ਲਾਭ",
+        "membershipBenefits": "ਮੈਂਬਰਸ਼ਿਪ ਲਾਭ",
+        "membershipRenewal": "ਮੈਂਬਰਸ਼ਿਪ ਨਵੀਨੀਕਰਨ",
+        "membershipRenewals": "ਮੈਂਬਰਸ਼ਿਪ ਨਵੀਨੀਕਰਨ",
         "membershipType": "ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਕਿਸਮ",
+        "membershipTypeBenefit": "ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਕਿਸਮ – ਮੈਂਬਰਸ਼ਿਪ ਲਾਭ",
+        "membershipTypeBenefits": "ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਕਿਸਮ – ਮੈਂਬਰਸ਼ਿਪ ਲਾਭ",
         "membershipTypes": "ਮੈਂਬਰਸ਼ਿਪ ਦੀਆਂ ਕਿਸਮਾਂ",
         "memberships": "ਮੈਂਬਰਸ਼ਿਪਾਂ"
     }

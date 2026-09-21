@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "உறுப்பினர் எண்",
         "applicant": "விண்ணப்பதாரர்",
         "applicationDate": "விண்ணப்ப தேதி",
-        "applications": "உறுப்பினர் விண்ணப்பங்கள்",
         "approvalRequired": "ஒப்புதல் தேவை",
         "durationDays": "நாட்களில் காலம்",
         "fee": "கட்டணம்",
         "member": "உறுப்பினர்",
+        "memberNumber": "உறுப்பினர் எண்",
+        "membership": "உறுப்பினர் நிலை",
+        "membershipApplication": "உறுப்பினர் விண்ணப்பம்",
+        "membershipApplications": "உறுப்பினர் விண்ணப்பங்கள்",
+        "membershipBenefit": "உறுப்பினர் நன்மை",
+        "membershipBenefits": "உறுப்பினர் நன்மைகள்",
+        "membershipRenewal": "உறுப்பினர் புதுப்பிப்பு",
+        "membershipRenewals": "உறுப்பினர் புதுப்பிப்புகள்",
         "membershipType": "உறுப்பினர் வகை",
+        "membershipTypeBenefit": "உறுப்பினர் வகை – உறுப்பினர் நன்மை",
+        "membershipTypeBenefits": "உறுப்பினர் வகை – உறுப்பினர் நன்மைகள்",
         "membershipTypes": "உறுப்பினர் வகைகள்",
         "memberships": "உறுப்பினர் நிலைகள்"
     }

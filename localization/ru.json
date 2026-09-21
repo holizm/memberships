@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Номер участника",
         "applicant": "Заявитель",
         "applicationDate": "Дата подачи заявки",
-        "applications": "Заявки на членство",
         "approvalRequired": "Требуется одобрение",
         "durationDays": "Срок в днях",
         "fee": "Взнос",
         "member": "Участник",
+        "memberNumber": "Номер участника",
+        "membership": "Членство",
+        "membershipApplication": "Заявка на членство",
+        "membershipApplications": "Заявки на членство",
+        "membershipBenefit": "Преимущество членства",
+        "membershipBenefits": "Преимущества членства",
+        "membershipRenewal": "Продление членства",
+        "membershipRenewals": "Продления членства",
         "membershipType": "Тип членства",
+        "membershipTypeBenefit": "Тип членства – Преимущество членства",
+        "membershipTypeBenefits": "Тип членства – Преимущества членства",
         "membershipTypes": "Типы членства",
         "memberships": "Членство"
     }

@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Üye numarası",
         "applicant": "Başvuru sahibi",
         "applicationDate": "Başvuru tarihi",
-        "applications": "Üyelik başvuruları",
         "approvalRequired": "Onay gerekli",
         "durationDays": "Gün cinsinden süre",
         "fee": "Ücret",
         "member": "Üye",
+        "memberNumber": "Üye numarası",
+        "membership": "Üyelik",
+        "membershipApplication": "Üyelik başvurusu",
+        "membershipApplications": "Üyelik başvuruları",
+        "membershipBenefit": "Üyelik avantajı",
+        "membershipBenefits": "Üyelik avantajları",
+        "membershipRenewal": "Üyelik yenileme",
+        "membershipRenewals": "Üyelik yenilemeleri",
         "membershipType": "Üyelik türü",
+        "membershipTypeBenefit": "Üyelik türü – Üyelik avantajı",
+        "membershipTypeBenefits": "Üyelik türü – Üyelik avantajları",
         "membershipTypes": "Üyelik türleri",
         "memberships": "Üyelikler"
     }

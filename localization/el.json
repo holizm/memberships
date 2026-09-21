@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Αριθμός μέλους",
         "applicant": "Αιτών",
         "applicationDate": "Ημερομηνία αίτησης",
-        "applications": "Αιτήσεις μέλους",
         "approvalRequired": "Απαιτείται έγκριση",
         "durationDays": "Διάρκεια σε ημέρες",
         "fee": "Συνδρομή",
         "member": "Μέλος",
+        "memberNumber": "Αριθμός μέλους",
+        "membership": "Συνδρομή",
+        "membershipApplication": "Αίτηση μέλους",
+        "membershipApplications": "Αιτήσεις μέλους",
+        "membershipBenefit": "Προνόμιο συνδρομής",
+        "membershipBenefits": "Προνόμια συνδρομής",
+        "membershipRenewal": "Ανανέωση συνδρομής",
+        "membershipRenewals": "Ανανεώσεις συνδρομής",
         "membershipType": "Τύπος συνδρομής",
+        "membershipTypeBenefit": "Τύπος συνδρομής – Προνόμιο συνδρομής",
+        "membershipTypeBenefits": "Τύπος συνδρομής – Προνόμια συνδρομής",
         "membershipTypes": "Τύποι συνδρομής",
         "memberships": "Συνδρομές"
     }

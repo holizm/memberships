@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Lambar memba",
         "applicant": "Mai nema",
         "applicationDate": "Ranar neman shiga",
-        "applications": "Buƙatun zama memba",
         "approvalRequired": "Ana buƙatar amincewa",
         "durationDays": "Tsawon lokaci a kwanaki",
         "fee": "Kuɗi",
         "member": "Memba",
+        "memberNumber": "Lambar memba",
+        "membership": "Zama memba",
+        "membershipApplication": "Buƙatar zama memba",
+        "membershipApplications": "Buƙatun zama memba",
+        "membershipBenefit": "Amfanin zama memba",
+        "membershipBenefits": "Amfanin zama memba",
+        "membershipRenewal": "Sabunta zama memba",
+        "membershipRenewals": "Sabunta zama memba",
         "membershipType": "Nau'in zama memba",
+        "membershipTypeBenefit": "Nau'in zama memba – Amfanin zama memba",
+        "membershipTypeBenefits": "Nau'in zama memba – Amfanin zama memba",
         "membershipTypes": "Nau'ikan zama memba",
         "memberships": "Mambobinsu"
     }

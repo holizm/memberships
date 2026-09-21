@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Členské číslo",
         "applicant": "Žadatel",
         "applicationDate": "Datum žádosti",
-        "applications": "Žádosti o členství",
         "approvalRequired": "Vyžaduje schválení",
         "durationDays": "Doba trvání ve dnech",
         "fee": "Poplatek",
         "member": "Člen",
+        "memberNumber": "Členské číslo",
+        "membership": "Členství",
+        "membershipApplication": "Žádost o členství",
+        "membershipApplications": "Žádosti o členství",
+        "membershipBenefit": "Výhoda členství",
+        "membershipBenefits": "Výhody členství",
+        "membershipRenewal": "Obnovení členství",
+        "membershipRenewals": "Obnovení členství",
         "membershipType": "Typ členství",
+        "membershipTypeBenefit": "Typ členství – Výhoda členství",
+        "membershipTypeBenefits": "Typ členství – Výhody členství",
         "membershipTypes": "Typy členství",
         "memberships": "Členství"
     }

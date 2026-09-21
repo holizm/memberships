@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "సభ్యత్వ సంఖ్య",
         "applicant": "దరఖాస్తుదారు",
         "applicationDate": "దరఖాస్తు తేదీ",
-        "applications": "సభ్యత్వ దరఖాస్తులు",
         "approvalRequired": "ఆమోదం అవసరం",
         "durationDays": "రోజుల్లో వ్యవధి",
         "fee": "రుసుము",
         "member": "సభ్యుడు",
+        "memberNumber": "సభ్యత్వ సంఖ్య",
+        "membership": "సభ్యత్వం",
+        "membershipApplication": "సభ్యత్వ దరఖాస్తు",
+        "membershipApplications": "సభ్యత్వ దరఖాస్తులు",
+        "membershipBenefit": "సభ్యత్వ ప్రయోజనం",
+        "membershipBenefits": "సభ్యత్వ ప్రయోజనాలు",
+        "membershipRenewal": "సభ్యత్వ పునరుద్ధరణ",
+        "membershipRenewals": "సభ్యత్వ పునరుద్ధరణలు",
         "membershipType": "సభ్యత్వ రకం",
+        "membershipTypeBenefit": "సభ్యత్వ రకం – సభ్యత్వ ప్రయోజనం",
+        "membershipTypeBenefits": "సభ్యత్వ రకం – సభ్యత్వ ప్రయోజనాలు",
         "membershipTypes": "సభ్యత్వ రకాలు",
         "memberships": "సభ్యత్వాలు"
     }

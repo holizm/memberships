@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "หมายเลขสมาชิก",
         "applicant": "ผู้สมัคร",
         "applicationDate": "วันที่สมัคร",
-        "applications": "ใบสมัครสมาชิก",
         "approvalRequired": "ต้องได้รับการอนุมัติ",
         "durationDays": "ระยะเวลาเป็นวัน",
         "fee": "ค่าธรรมเนียม",
         "member": "สมาชิก",
+        "memberNumber": "หมายเลขสมาชิก",
+        "membership": "การเป็นสมาชิก",
+        "membershipApplication": "ใบสมัครสมาชิก",
+        "membershipApplications": "ใบสมัครสมาชิก",
+        "membershipBenefit": "สิทธิประโยชน์สมาชิก",
+        "membershipBenefits": "สิทธิประโยชน์สมาชิก",
+        "membershipRenewal": "การต่ออายุสมาชิก",
+        "membershipRenewals": "การต่ออายุสมาชิก",
         "membershipType": "ประเภทสมาชิก",
+        "membershipTypeBenefit": "ประเภทสมาชิก – สิทธิประโยชน์สมาชิก",
+        "membershipTypeBenefits": "ประเภทสมาชิก – สิทธิประโยชน์สมาชิก",
         "membershipTypes": "ประเภทสมาชิก",
         "memberships": "การเป็นสมาชิก"
     }

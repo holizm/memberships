@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Numero ng miyembro",
         "applicant": "Aplikante",
         "applicationDate": "Petsa ng aplikasyon",
-        "applications": "Mga aplikasyon sa pagiging miyembro",
         "approvalRequired": "Kailangan ng pag-apruba",
         "durationDays": "Tagal sa mga araw",
         "fee": "Bayad",
         "member": "Miyembro",
+        "memberNumber": "Numero ng miyembro",
+        "membership": "Pagiging miyembro",
+        "membershipApplication": "Aplikasyon sa pagiging miyembro",
+        "membershipApplications": "Mga aplikasyon sa pagiging miyembro",
+        "membershipBenefit": "Benepisyo ng pagiging miyembro",
+        "membershipBenefits": "Mga benepisyo ng pagiging miyembro",
+        "membershipRenewal": "Pag-renew ng pagiging miyembro",
+        "membershipRenewals": "Mga pag-renew ng pagiging miyembro",
         "membershipType": "Uri ng pagiging miyembro",
+        "membershipTypeBenefit": "Uri ng pagiging miyembro – Benepisyo ng pagiging miyembro",
+        "membershipTypeBenefits": "Uri ng pagiging miyembro – Mga benepisyo ng pagiging miyembro",
         "membershipTypes": "Mga uri ng pagiging miyembro",
         "memberships": "Mga pagiging miyembro"
     }

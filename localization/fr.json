@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Numéro de membre",
         "applicant": "Demandeur",
         "applicationDate": "Date de la demande",
-        "applications": "Demandes d’adhésion",
         "approvalRequired": "Approbation requise",
         "durationDays": "Durée en jours",
         "fee": "Cotisation",
         "member": "Membre",
+        "memberNumber": "Numéro de membre",
+        "membership": "Adhésion",
+        "membershipApplication": "Demande d’adhésion",
+        "membershipApplications": "Demandes d’adhésion",
+        "membershipBenefit": "Avantage d’adhésion",
+        "membershipBenefits": "Avantages d’adhésion",
+        "membershipRenewal": "Renouvellement d’adhésion",
+        "membershipRenewals": "Renouvellements d’adhésion",
         "membershipType": "Type d’adhésion",
+        "membershipTypeBenefit": "Type d’adhésion – Avantage d’adhésion",
+        "membershipTypeBenefits": "Type d’adhésion – Avantages d’adhésion",
         "membershipTypes": "Types d’adhésion",
         "memberships": "Adhésions"
     }

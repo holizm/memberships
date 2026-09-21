@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "رقم العضو",
         "applicant": "مقدم الطلب",
         "applicationDate": "تاريخ الطلب",
-        "applications": "طلبات العضوية",
         "approvalRequired": "الموافقة مطلوبة",
         "durationDays": "المدة بالأيام",
         "fee": "الرسوم",
         "member": "عضو",
+        "memberNumber": "رقم العضو",
+        "membership": "عضوية",
+        "membershipApplication": "طلب عضوية",
+        "membershipApplications": "طلبات العضوية",
+        "membershipBenefit": "ميزة العضوية",
+        "membershipBenefits": "مزايا العضوية",
+        "membershipRenewal": "تجديد العضوية",
+        "membershipRenewals": "تجديدات العضوية",
         "membershipType": "نوع العضوية",
+        "membershipTypeBenefit": "نوع العضوية – ميزة العضوية",
+        "membershipTypeBenefits": "نوع العضوية – مزايا العضوية",
         "membershipTypes": "أنواع العضوية",
         "memberships": "العضويات"
     }

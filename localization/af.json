@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Lidnommer",
         "applicant": "Aansoeker",
         "applicationDate": "Aansoekdatum",
-        "applications": "Lidmaatskapaansoeke",
         "approvalRequired": "Goedkeuring vereis",
         "durationDays": "Tydsduur in dae",
         "fee": "Ledegeld",
         "member": "Lid",
+        "memberNumber": "Lidnommer",
+        "membership": "Lidmaatskap",
+        "membershipApplication": "Lidmaatskapaansoek",
+        "membershipApplications": "Lidmaatskapaansoeke",
+        "membershipBenefit": "Lidmaatskapvoordeel",
+        "membershipBenefits": "Lidmaatskapvoordele",
+        "membershipRenewal": "Lidmaatskaphernuwing",
+        "membershipRenewals": "Lidmaatskaphernuwings",
         "membershipType": "Lidmaatskaptipe",
+        "membershipTypeBenefit": "Lidmaatskaptipe – Lidmaatskapvoordeel",
+        "membershipTypeBenefits": "Lidmaatskaptipe – Lidmaatskapvoordele",
         "membershipTypes": "Lidmaatskaptipes",
         "memberships": "Lidmaatskappe"
     }

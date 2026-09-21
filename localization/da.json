@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Medlemsnummer",
         "applicant": "Ansøger",
         "applicationDate": "Ansøgningsdato",
-        "applications": "Medlemsansøgninger",
         "approvalRequired": "Godkendelse påkrævet",
         "durationDays": "Varighed i dage",
         "fee": "Kontingent",
         "member": "Medlem",
+        "memberNumber": "Medlemsnummer",
+        "membership": "Medlemskab",
+        "membershipApplication": "Medlemsansøgning",
+        "membershipApplications": "Medlemsansøgninger",
+        "membershipBenefit": "Medlemsfordel",
+        "membershipBenefits": "Medlemsfordele",
+        "membershipRenewal": "Fornyelse af medlemskab",
+        "membershipRenewals": "Fornyelser af medlemskab",
         "membershipType": "Medlemskabstype",
+        "membershipTypeBenefit": "Medlemskabstype – Medlemsfordel",
+        "membershipTypeBenefits": "Medlemskabstype – Medlemsfordele",
         "membershipTypes": "Medlemskabstyper",
         "memberships": "Medlemskaber"
     }

@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "会员编号",
         "applicant": "申请人",
         "applicationDate": "申请日期",
-        "applications": "会员申请",
         "approvalRequired": "需要审批",
         "durationDays": "有效天数",
         "fee": "费用",
         "member": "会员",
+        "memberNumber": "会员编号",
+        "membership": "会员资格",
+        "membershipApplication": "会员申请",
+        "membershipApplications": "会员申请",
+        "membershipBenefit": "会员权益",
+        "membershipBenefits": "会员权益",
+        "membershipRenewal": "会员续期",
+        "membershipRenewals": "会员续期",
         "membershipType": "会员类型",
+        "membershipTypeBenefit": "会员类型 – 会员权益",
+        "membershipTypeBenefits": "会员类型 – 会员权益",
         "membershipTypes": "会员类型",
         "memberships": "会员资格"
     }

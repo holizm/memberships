@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "सदस्य क्रमांक",
         "applicant": "अर्जदार",
         "applicationDate": "अर्जाची तारीख",
-        "applications": "सदस्यत्व अर्ज",
         "approvalRequired": "मंजुरी आवश्यक",
         "durationDays": "दिवसांमध्ये कालावधी",
         "fee": "शुल्क",
         "member": "सदस्य",
+        "memberNumber": "सदस्य क्रमांक",
+        "membership": "सदस्यत्व",
+        "membershipApplication": "सदस्यत्व अर्ज",
+        "membershipApplications": "सदस्यत्व अर्ज",
+        "membershipBenefit": "सदस्यत्व लाभ",
+        "membershipBenefits": "सदस्यत्व लाभ",
+        "membershipRenewal": "सदस्यत्व नूतनीकरण",
+        "membershipRenewals": "सदस्यत्व नूतनीकरणे",
         "membershipType": "सदस्यत्व प्रकार",
+        "membershipTypeBenefit": "सदस्यत्व प्रकार – सदस्यत्व लाभ",
+        "membershipTypeBenefits": "सदस्यत्व प्रकार – सदस्यत्व लाभ",
         "membershipTypes": "सदस्यत्व प्रकार",
         "memberships": "सदस्यत्वे"
     }

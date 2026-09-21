@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "회원 번호",
         "applicant": "신청자",
         "applicationDate": "신청일",
-        "applications": "회원 가입 신청",
         "approvalRequired": "승인 필요",
         "durationDays": "기간(일)",
         "fee": "회비",
         "member": "회원",
+        "memberNumber": "회원 번호",
+        "membership": "회원 자격",
+        "membershipApplication": "회원 가입 신청",
+        "membershipApplications": "회원 가입 신청",
+        "membershipBenefit": "회원 혜택",
+        "membershipBenefits": "회원 혜택",
+        "membershipRenewal": "회원 자격 갱신",
+        "membershipRenewals": "회원 자격 갱신",
         "membershipType": "회원 유형",
+        "membershipTypeBenefit": "회원 유형 – 회원 혜택",
+        "membershipTypeBenefits": "회원 유형 – 회원 혜택",
         "membershipTypes": "회원 유형",
         "memberships": "회원 자격"
     }

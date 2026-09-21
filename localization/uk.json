@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Номер учасника",
         "applicant": "Заявник",
         "applicationDate": "Дата подання заявки",
-        "applications": "Заявки на членство",
         "approvalRequired": "Потрібне схвалення",
         "durationDays": "Тривалість у днях",
         "fee": "Внесок",
         "member": "Учасник",
+        "memberNumber": "Номер учасника",
+        "membership": "Членство",
+        "membershipApplication": "Заявка на членство",
+        "membershipApplications": "Заявки на членство",
+        "membershipBenefit": "Перевага членства",
+        "membershipBenefits": "Переваги членства",
+        "membershipRenewal": "Продовження членства",
+        "membershipRenewals": "Продовження членства",
         "membershipType": "Тип членства",
+        "membershipTypeBenefit": "Тип членства – Перевага членства",
+        "membershipTypeBenefits": "Тип членства – Переваги членства",
         "membershipTypes": "Типи членства",
         "memberships": "Членство"
     }

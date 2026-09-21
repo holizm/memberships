@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Mã thành viên",
         "applicant": "Người đăng ký",
         "applicationDate": "Ngày đăng ký",
-        "applications": "Đơn đăng ký thành viên",
         "approvalRequired": "Cần phê duyệt",
         "durationDays": "Thời hạn theo ngày",
         "fee": "Phí",
         "member": "Thành viên",
+        "memberNumber": "Mã thành viên",
+        "membership": "Tư cách thành viên",
+        "membershipApplication": "Đơn đăng ký thành viên",
+        "membershipApplications": "Đơn đăng ký thành viên",
+        "membershipBenefit": "Quyền lợi thành viên",
+        "membershipBenefits": "Các quyền lợi thành viên",
+        "membershipRenewal": "Gia hạn tư cách thành viên",
+        "membershipRenewals": "Các lần gia hạn tư cách thành viên",
         "membershipType": "Loại thành viên",
+        "membershipTypeBenefit": "Loại thành viên – Quyền lợi thành viên",
+        "membershipTypeBenefits": "Loại thành viên – Các quyền lợi thành viên",
         "membershipTypes": "Các loại thành viên",
         "memberships": "Tư cách thành viên"
     }

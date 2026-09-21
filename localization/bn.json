@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "সদস্য নম্বর",
         "applicant": "আবেদনকারী",
         "applicationDate": "আবেদনের তারিখ",
-        "applications": "সদস্যপদের আবেদন",
         "approvalRequired": "অনুমোদন প্রয়োজন",
         "durationDays": "দিনে মেয়াদ",
         "fee": "ফি",
         "member": "সদস্য",
+        "memberNumber": "সদস্য নম্বর",
+        "membership": "সদস্যপদ",
+        "membershipApplication": "সদস্যপদের আবেদন",
+        "membershipApplications": "সদস্যপদের আবেদন",
+        "membershipBenefit": "সদস্যপদ সুবিধা",
+        "membershipBenefits": "সদস্যপদ সুবিধাসমূহ",
+        "membershipRenewal": "সদস্যপদ নবায়ন",
+        "membershipRenewals": "সদস্যপদ নবায়নসমূহ",
         "membershipType": "সদস্যপদের ধরন",
+        "membershipTypeBenefit": "সদস্যপদের ধরন – সদস্যপদ সুবিধা",
+        "membershipTypeBenefits": "সদস্যপদের ধরন – সদস্যপদ সুবিধাসমূহ",
         "membershipTypes": "সদস্যপদের ধরনসমূহ",
         "memberships": "সদস্যপদ"
     }

@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Jäsennumero",
         "applicant": "Hakija",
         "applicationDate": "Hakemuspäivä",
-        "applications": "Jäsenyyshakemukset",
         "approvalRequired": "Hyväksyntä vaaditaan",
         "durationDays": "Kesto päivinä",
         "fee": "Jäsenmaksu",
         "member": "Jäsen",
+        "memberNumber": "Jäsennumero",
+        "membership": "Jäsenyys",
+        "membershipApplication": "Jäsenyyshakemus",
+        "membershipApplications": "Jäsenyyshakemukset",
+        "membershipBenefit": "Jäsenetu",
+        "membershipBenefits": "Jäsenedut",
+        "membershipRenewal": "Jäsenyyden uusiminen",
+        "membershipRenewals": "Jäsenyyden uusimiset",
         "membershipType": "Jäsenyyden tyyppi",
+        "membershipTypeBenefit": "Jäsenyyden tyyppi – Jäsenetu",
+        "membershipTypeBenefits": "Jäsenyyden tyyppi – Jäsenedut",
         "membershipTypes": "Jäsenyyden tyypit",
         "memberships": "Jäsenyydet"
     }

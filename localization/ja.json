@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "会員番号",
         "applicant": "申請者",
         "applicationDate": "申請日",
-        "applications": "会員申請",
         "approvalRequired": "承認が必要",
         "durationDays": "期間（日数）",
         "fee": "会費",
         "member": "会員",
+        "memberNumber": "会員番号",
+        "membership": "会員資格",
+        "membershipApplication": "会員申請",
+        "membershipApplications": "会員申請",
+        "membershipBenefit": "会員特典",
+        "membershipBenefits": "会員特典",
+        "membershipRenewal": "会員資格の更新",
+        "membershipRenewals": "会員資格の更新",
         "membershipType": "会員種別",
+        "membershipTypeBenefit": "会員種別 – 会員特典",
+        "membershipTypeBenefits": "会員種別 – 会員特典",
         "membershipTypes": "会員種別",
         "memberships": "会員資格"
     }

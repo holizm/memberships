@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Nambari ya mwanachama",
         "applicant": "Mwombaji",
         "applicationDate": "Tarehe ya maombi",
-        "applications": "Maombi ya uanachama",
         "approvalRequired": "Idhini inahitajika",
         "durationDays": "Muda kwa siku",
         "fee": "Ada",
         "member": "Mwanachama",
+        "memberNumber": "Nambari ya mwanachama",
+        "membership": "Uanachama",
+        "membershipApplication": "Ombi la uanachama",
+        "membershipApplications": "Maombi ya uanachama",
+        "membershipBenefit": "Faida ya uanachama",
+        "membershipBenefits": "Faida za uanachama",
+        "membershipRenewal": "Upyaji wa uanachama",
+        "membershipRenewals": "Upyaji wa uanachama",
         "membershipType": "Aina ya uanachama",
+        "membershipTypeBenefit": "Aina ya uanachama – Faida ya uanachama",
+        "membershipTypeBenefits": "Aina ya uanachama – Faida za uanachama",
         "membershipTypes": "Aina za uanachama",
         "memberships": "Uanachama"
     }

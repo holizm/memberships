@@ -7,7 +7,7 @@ export default [
             },
             {
                 path: '/memberships/membershipApplication/list',
-                title: 'membershipsApplications',
+                title: 'membershipsMembershipApplications',
             },
             {
                 path: '/memberships/membershipType/list',

@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Număr de membru",
         "applicant": "Solicitant",
         "applicationDate": "Data cererii",
-        "applications": "Cereri de aderare",
         "approvalRequired": "Este necesară aprobarea",
         "durationDays": "Durată în zile",
         "fee": "Cotizație",
         "member": "Membru",
+        "memberNumber": "Număr de membru",
+        "membership": "Calitate de membru",
+        "membershipApplication": "Cerere de aderare",
+        "membershipApplications": "Cereri de aderare",
+        "membershipBenefit": "Beneficiu de membru",
+        "membershipBenefits": "Beneficii de membru",
+        "membershipRenewal": "Reînnoire a calității de membru",
+        "membershipRenewals": "Reînnoiri ale calității de membru",
         "membershipType": "Tip de membru",
+        "membershipTypeBenefit": "Tip de membru – Beneficiu de membru",
+        "membershipTypeBenefits": "Tip de membru – Beneficii de membru",
         "membershipTypes": "Tipuri de membri",
         "memberships": "Calități de membru"
     }

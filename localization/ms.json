@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Nombor ahli",
         "applicant": "Pemohon",
         "applicationDate": "Tarikh permohonan",
-        "applications": "Permohonan keahlian",
         "approvalRequired": "Kelulusan diperlukan",
         "durationDays": "Tempoh dalam hari",
         "fee": "Yuran",
         "member": "Ahli",
+        "memberNumber": "Nombor ahli",
+        "membership": "Keahlian",
+        "membershipApplication": "Permohonan keahlian",
+        "membershipApplications": "Permohonan keahlian",
+        "membershipBenefit": "Faedah keahlian",
+        "membershipBenefits": "Faedah keahlian",
+        "membershipRenewal": "Pembaharuan keahlian",
+        "membershipRenewals": "Pembaharuan keahlian",
         "membershipType": "Jenis keahlian",
+        "membershipTypeBenefit": "Jenis keahlian – Faedah keahlian",
+        "membershipTypeBenefits": "Jenis keahlian – Faedah keahlian",
         "membershipTypes": "Jenis keahlian",
         "memberships": "Keahlian"
     }

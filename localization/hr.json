@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Članski broj",
         "applicant": "Podnositelj zahtjeva",
         "applicationDate": "Datum prijave",
-        "applications": "Zahtjevi za članstvo",
         "approvalRequired": "Potrebno odobrenje",
         "durationDays": "Trajanje u danima",
         "fee": "Članarina",
         "member": "Član",
+        "memberNumber": "Članski broj",
+        "membership": "Članstvo",
+        "membershipApplication": "Zahtjev za članstvo",
+        "membershipApplications": "Zahtjevi za članstvo",
+        "membershipBenefit": "Pogodnost članstva",
+        "membershipBenefits": "Pogodnosti članstva",
+        "membershipRenewal": "Obnova članstva",
+        "membershipRenewals": "Obnove članstva",
         "membershipType": "Vrsta članstva",
+        "membershipTypeBenefit": "Vrsta članstva – Pogodnost članstva",
+        "membershipTypeBenefits": "Vrsta članstva – Pogodnosti članstva",
         "membershipTypes": "Vrste članstva",
         "memberships": "Članstva"
     }

@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "အဖွဲ့ဝင်နံပါတ်",
         "applicant": "လျှောက်ထားသူ",
         "applicationDate": "လျှောက်ထားသည့်ရက်",
-        "applications": "အဖွဲ့ဝင် လျှောက်လွှာများ",
         "approvalRequired": "အတည်ပြုချက် လိုအပ်သည်",
         "durationDays": "ရက်အလိုက် သက်တမ်း",
         "fee": "အခကြေးငွေ",
         "member": "အဖွဲ့ဝင်",
+        "memberNumber": "အဖွဲ့ဝင်နံပါတ်",
+        "membership": "အဖွဲ့ဝင်မှု",
+        "membershipApplication": "အဖွဲ့ဝင် လျှောက်လွှာ",
+        "membershipApplications": "အဖွဲ့ဝင် လျှောက်လွှာများ",
+        "membershipBenefit": "အဖွဲ့ဝင် အကျိုးခံစားခွင့်",
+        "membershipBenefits": "အဖွဲ့ဝင် အကျိုးခံစားခွင့်များ",
+        "membershipRenewal": "အဖွဲ့ဝင်မှု သက်တမ်းတိုးခြင်း",
+        "membershipRenewals": "အဖွဲ့ဝင်မှု သက်တမ်းတိုးခြင်းများ",
         "membershipType": "အဖွဲ့ဝင်အမျိုးအစား",
+        "membershipTypeBenefit": "အဖွဲ့ဝင်အမျိုးအစား – အဖွဲ့ဝင် အကျိုးခံစားခွင့်",
+        "membershipTypeBenefits": "အဖွဲ့ဝင်အမျိုးအစား – အဖွဲ့ဝင် အကျိုးခံစားခွင့်များ",
         "membershipTypes": "အဖွဲ့ဝင်အမျိုးအစားများ",
         "memberships": "အဖွဲ့ဝင်မှုများ"
     }

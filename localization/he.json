@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "מספר חבר",
         "applicant": "מגיש הבקשה",
         "applicationDate": "תאריך הבקשה",
-        "applications": "בקשות חברות",
         "approvalRequired": "נדרש אישור",
         "durationDays": "משך בימים",
         "fee": "דמי חברות",
         "member": "חבר",
+        "memberNumber": "מספר חבר",
+        "membership": "חברות",
+        "membershipApplication": "בקשת חברות",
+        "membershipApplications": "בקשות חברות",
+        "membershipBenefit": "הטבת חברות",
+        "membershipBenefits": "הטבות חברות",
+        "membershipRenewal": "חידוש חברות",
+        "membershipRenewals": "חידושי חברות",
         "membershipType": "סוג חברות",
+        "membershipTypeBenefit": "סוג חברות – הטבת חברות",
+        "membershipTypeBenefits": "סוג חברות – הטבות חברות",
         "membershipTypes": "סוגי חברות",
         "memberships": "חברויות"
     }

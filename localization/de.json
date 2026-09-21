@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Mitgliedsnummer",
         "applicant": "Antragsteller",
         "applicationDate": "Antragsdatum",
-        "applications": "Mitgliedsanträge",
         "approvalRequired": "Genehmigung erforderlich",
         "durationDays": "Dauer in Tagen",
         "fee": "Beitrag",
         "member": "Mitglied",
+        "memberNumber": "Mitgliedsnummer",
+        "membership": "Mitgliedschaft",
+        "membershipApplication": "Mitgliedsantrag",
+        "membershipApplications": "Mitgliedsanträge",
+        "membershipBenefit": "Mitgliedschaftsvorteil",
+        "membershipBenefits": "Mitgliedschaftsvorteile",
+        "membershipRenewal": "Mitgliedschaftsverlängerung",
+        "membershipRenewals": "Mitgliedschaftsverlängerungen",
         "membershipType": "Mitgliedschaftsart",
+        "membershipTypeBenefit": "Mitgliedschaftsart – Mitgliedschaftsvorteil",
+        "membershipTypeBenefits": "Mitgliedschaftsart – Mitgliedschaftsvorteile",
         "membershipTypes": "Mitgliedschaftsarten",
         "memberships": "Mitgliedschaften"
     }

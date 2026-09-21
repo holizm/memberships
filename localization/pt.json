@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Número de membro",
         "applicant": "Requerente",
         "applicationDate": "Data da candidatura",
-        "applications": "Candidaturas de adesão",
         "approvalRequired": "Aprovação necessária",
         "durationDays": "Duração em dias",
         "fee": "Quota",
         "member": "Membro",
+        "memberNumber": "Número de membro",
+        "membership": "Adesão",
+        "membershipApplication": "Candidatura de adesão",
+        "membershipApplications": "Candidaturas de adesão",
+        "membershipBenefit": "Benefício da adesão",
+        "membershipBenefits": "Benefícios da adesão",
+        "membershipRenewal": "Renovação da adesão",
+        "membershipRenewals": "Renovações da adesão",
         "membershipType": "Tipo de adesão",
+        "membershipTypeBenefit": "Tipo de adesão – Benefício da adesão",
+        "membershipTypeBenefits": "Tipo de adesão – Benefícios da adesão",
         "membershipTypes": "Tipos de adesão",
         "memberships": "Adesões"
     }

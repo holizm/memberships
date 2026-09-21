@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Членски номер",
         "applicant": "Кандидат",
         "applicationDate": "Дата на кандидатстване",
-        "applications": "Заявления за членство",
         "approvalRequired": "Изисква се одобрение",
         "durationDays": "Продължителност в дни",
         "fee": "Такса",
         "member": "Член",
+        "memberNumber": "Членски номер",
+        "membership": "Членство",
+        "membershipApplication": "Заявление за членство",
+        "membershipApplications": "Заявления за членство",
+        "membershipBenefit": "Предимство на членството",
+        "membershipBenefits": "Предимства на членството",
+        "membershipRenewal": "Подновяване на членство",
+        "membershipRenewals": "Подновявания на членство",
         "membershipType": "Вид членство",
+        "membershipTypeBenefit": "Вид членство – Предимство на членството",
+        "membershipTypeBenefits": "Вид членство – Предимства на членството",
         "membershipTypes": "Видове членство",
         "memberships": "Членства"
     }

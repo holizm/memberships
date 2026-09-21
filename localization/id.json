@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "Nomor anggota",
         "applicant": "Pemohon",
         "applicationDate": "Tanggal permohonan",
-        "applications": "Permohonan keanggotaan",
         "approvalRequired": "Memerlukan persetujuan",
         "durationDays": "Durasi dalam hari",
         "fee": "Iuran",
         "member": "Anggota",
+        "memberNumber": "Nomor anggota",
+        "membership": "Keanggotaan",
+        "membershipApplication": "Permohonan keanggotaan",
+        "membershipApplications": "Permohonan keanggotaan",
+        "membershipBenefit": "Manfaat keanggotaan",
+        "membershipBenefits": "Manfaat keanggotaan",
+        "membershipRenewal": "Perpanjangan keanggotaan",
+        "membershipRenewals": "Perpanjangan keanggotaan",
         "membershipType": "Jenis keanggotaan",
+        "membershipTypeBenefit": "Jenis keanggotaan – Manfaat keanggotaan",
+        "membershipTypeBenefits": "Jenis keanggotaan – Manfaat keanggotaan",
         "membershipTypes": "Jenis keanggotaan",
         "memberships": "Keanggotaan"
     }

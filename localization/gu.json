@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "સભ્ય નંબર",
         "applicant": "અરજદાર",
         "applicationDate": "અરજીની તારીખ",
-        "applications": "સભ્યપદ અરજીઓ",
         "approvalRequired": "મંજૂરી જરૂરી",
         "durationDays": "દિવસોમાં અવધિ",
         "fee": "ફી",
         "member": "સભ્ય",
+        "memberNumber": "સભ્ય નંબર",
+        "membership": "સભ્યપદ",
+        "membershipApplication": "સભ્યપદ અરજી",
+        "membershipApplications": "સભ્યપદ અરજીઓ",
+        "membershipBenefit": "સભ્યપદ લાભ",
+        "membershipBenefits": "સભ્યપદ લાભો",
+        "membershipRenewal": "સભ્યપદ નવીનીકરણ",
+        "membershipRenewals": "સભ્યપદ નવીનીકરણો",
         "membershipType": "સભ્યપદ પ્રકાર",
+        "membershipTypeBenefit": "સભ્યપદ પ્રકાર – સભ્યપદ લાભ",
+        "membershipTypeBenefits": "સભ્યપદ પ્રકાર – સભ્યપદ લાભો",
         "membershipTypes": "સભ્યપદ પ્રકારો",
         "memberships": "સભ્યપદો"
     }

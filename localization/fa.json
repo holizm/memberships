@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "شماره عضویت",
         "applicant": "متقاضی",
         "applicationDate": "تاریخ درخواست",
-        "applications": "درخواست‌های عضویت",
         "approvalRequired": "نیازمند تأیید",
         "durationDays": "مدت به روز",
         "fee": "هزینه عضویت",
         "member": "عضو",
+        "memberNumber": "شماره عضویت",
+        "membership": "عضویت",
+        "membershipApplication": "درخواست عضویت",
+        "membershipApplications": "درخواست‌های عضویت",
+        "membershipBenefit": "مزیت عضویت",
+        "membershipBenefits": "مزایای عضویت",
+        "membershipRenewal": "تمدید عضویت",
+        "membershipRenewals": "تمدیدهای عضویت",
         "membershipType": "نوع عضویت",
+        "membershipTypeBenefit": "نوع عضویت – مزیت عضویت",
+        "membershipTypeBenefits": "نوع عضویت – مزایای عضویت",
         "membershipTypes": "انواع عضویت",
         "memberships": "عضویت‌ها"
     }

@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "അംഗ നമ്പർ",
         "applicant": "അപേക്ഷകൻ",
         "applicationDate": "അപേക്ഷാ തീയതി",
-        "applications": "അംഗത്വ അപേക്ഷകൾ",
         "approvalRequired": "അംഗീകാരം ആവശ്യമാണ്",
         "durationDays": "ദിവസങ്ങളിലെ കാലാവധി",
         "fee": "ഫീസ്",
         "member": "അംഗം",
+        "memberNumber": "അംഗ നമ്പർ",
+        "membership": "അംഗത്വം",
+        "membershipApplication": "അംഗത്വ അപേക്ഷ",
+        "membershipApplications": "അംഗത്വ അപേക്ഷകൾ",
+        "membershipBenefit": "അംഗത്വ ആനുകൂല്യം",
+        "membershipBenefits": "അംഗത്വ ആനുകൂല്യങ്ങൾ",
+        "membershipRenewal": "അംഗത്വ പുതുക്കൽ",
+        "membershipRenewals": "അംഗത്വ പുതുക്കലുകൾ",
         "membershipType": "അംഗത്വ തരം",
+        "membershipTypeBenefit": "അംഗത്വ തരം – അംഗത്വ ആനുകൂല്യം",
+        "membershipTypeBenefits": "അംഗത്വ തരം – അംഗത്വ ആനുകൂല്യങ്ങൾ",
         "membershipTypes": "അംഗത്വ തരങ്ങൾ",
         "memberships": "അംഗത്വങ്ങൾ"
     }

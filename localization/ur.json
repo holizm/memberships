@@ -1,14 +1,22 @@
 {
     "common": {
-        "memberNumber": "رکن نمبر",
         "applicant": "درخواست دہندہ",
         "applicationDate": "درخواست کی تاریخ",
-        "applications": "رکنیت کی درخواستیں",
         "approvalRequired": "منظوری درکار ہے",
         "durationDays": "دنوں میں مدت",
         "fee": "فیس",
         "member": "رکن",
+        "memberNumber": "رکن نمبر",
+        "membership": "رکنیت",
+        "membershipApplication": "رکنیت کی درخواست",
+        "membershipApplications": "رکنیت کی درخواستیں",
+        "membershipBenefit": "رکنیت کا فائدہ",
+        "membershipBenefits": "رکنیت کے فوائد",
+        "membershipRenewal": "رکنیت کی تجدید",
+        "membershipRenewals": "رکنیت کی تجدیدات",
         "membershipType": "رکنیت کی قسم",
+        "membershipTypeBenefit": "رکنیت کی قسم – رکنیت کا فائدہ",
+        "membershipTypeBenefits": "رکنیت کی قسم – رکنیت کے فوائد",
         "membershipTypes": "رکنیت کی اقسام",
         "memberships": "رکنیتیں"
     }
