@@ -8,26 +8,23 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='applicant'
-        property='applicant'
+        applicant
         required
     />
     <Text
-        placeholder='membershipType'
-        property='membershipType'
+        membershipType
         required
     />
     <DateTime
-        placeholder='applicationDate'
-        property='applicationDate'
+        applicationDate
         required
     />
     <Select
+        membershipApplicationStatus
         options={[
             'submitted',
             'underReview',
@@ -36,13 +33,9 @@ const inputs = <>
             'withdrawn',
         ]}
         placeholder='state'
-        property='membershipApplicationStatus'
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

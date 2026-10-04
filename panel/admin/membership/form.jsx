@@ -7,30 +7,24 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='memberNumber'
-        property='memberNumber'
+        memberNumber
         required
     />
     <Text
-        placeholder='member'
-        property='member'
+        member
         required
     />
     <Text
-        placeholder='membershipType'
-        property='membershipType'
+        membershipType
         required
     />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
-    <DateTime
-        placeholder='endDate'
-        property='endDate'
-    />
+    <DateTime endDate />
     <Select
+        membershipStatus
         options={[
             'pending',
             'active',
@@ -39,7 +33,6 @@ const inputs = <>
             'cancelled',
         ]}
         placeholder='state'
-        property='membershipStatus'
         required
     />
 </>

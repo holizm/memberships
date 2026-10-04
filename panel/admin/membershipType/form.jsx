@@ -10,30 +10,14 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
-    <Numeric
-        placeholder='durationDays'
-        property='durationDays'
-    />
-    <Numeric
-        placeholder='fee'
-        property='fee'
-    />
-    <Text
-        placeholder='currency'
-        property='currency'
-    />
-    <Boolean
-        placeholder='approvalRequired'
-        property='approvalRequired'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <Numeric durationDays />
+    <Numeric fee />
+    <Text currency />
+    <Boolean approvalRequired />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
