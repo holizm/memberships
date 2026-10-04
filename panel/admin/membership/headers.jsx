@@ -1,7 +1,7 @@
 export default <>
-    <th start>membershipsMemberNumber</th>
-    <th>membershipsMember</th>
-    <th>membershipsMembershipType</th>
-    <th>membershipsEndDate</th>
-    <th>stateMachinesState</th>
+    <th start>memberNumber</th>
+    <th>member</th>
+    <th>membershipType</th>
+    <th>endDate</th>
+    <th>state</th>
 </>

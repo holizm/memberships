@@ -1,6 +1,6 @@
 export default <>
-    <th start>membershipsMembershipType</th>
-    <th>membershipsCode</th>
-    <th>membershipsDurationDays</th>
-    <th>membershipsFee</th>
+    <th start>membershipType</th>
+    <th>code</th>
+    <th>durationDays</th>
+    <th>fee</th>
 </>

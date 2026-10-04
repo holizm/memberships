@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/memberships/membership/list',
-                title: 'membershipsMemberships',
+                title: 'memberships',
             },
             {
                 path: '/memberships/membershipApplication/list',
-                title: 'membershipsMembershipApplications',
+                title: 'membershipApplications',
             },
             {
                 path: '/memberships/membershipType/list',
-                title: 'membershipsMembershipTypes',
+                title: 'membershipTypes',
             },
         ],
         icon: 'cardMembership',
         path: '/memberships',
-        title: 'membershipsMemberships',
+        title: 'memberships',
     },
 ]

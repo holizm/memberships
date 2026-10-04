@@ -7,27 +7,27 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='membershipsMemberNumber'
+        placeholder='memberNumber'
         property='memberNumber'
         required
     />
     <Text
-        placeholder='membershipsMember'
+        placeholder='member'
         property='member'
         required
     />
     <Text
-        placeholder='membershipsMembershipType'
+        placeholder='membershipType'
         property='membershipType'
         required
     />
     <DateTime
-        placeholder='membershipsStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='membershipsEndDate'
+        placeholder='endDate'
         property='endDate'
     />
     <Select
@@ -38,7 +38,7 @@ const inputs = <>
             'expired',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='membershipStatus'
         required
     />

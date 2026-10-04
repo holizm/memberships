@@ -8,22 +8,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='membershipsNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='membershipsApplicant'
+        placeholder='applicant'
         property='applicant'
         required
     />
     <Text
-        placeholder='membershipsMembershipType'
+        placeholder='membershipType'
         property='membershipType'
         required
     />
     <DateTime
-        placeholder='membershipsApplicationDate'
+        placeholder='applicationDate'
         property='applicationDate'
         required
     />
@@ -35,12 +35,12 @@ const inputs = <>
             'rejected',
             'withdrawn',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='membershipApplicationStatus'
         required
     />
     <LongText
-        placeholder='coreDescription'
+        placeholder='description'
         property='description'
     />
 </>

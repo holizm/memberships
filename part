@@ -37,6 +37,8 @@ membershipApplication
     membershipApplicationStatus
     description optional
     unique number
+    uses
+        stateMachines
 membership
     memberNumber
     member
@@ -46,6 +48,8 @@ membership
     membershipStatus
     subscription optional
     unique memberNumber
+    uses
+        stateMachines
 membershipRenewal
     membership
     renewalDate

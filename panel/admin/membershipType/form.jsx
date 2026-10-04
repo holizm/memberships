@@ -10,28 +10,28 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='membershipsCode'
+        placeholder='code'
         property='code'
         required
     />
     <Numeric
-        placeholder='membershipsDurationDays'
+        placeholder='durationDays'
         property='durationDays'
     />
     <Numeric
-        placeholder='membershipsFee'
+        placeholder='fee'
         property='fee'
     />
     <Text
-        placeholder='membershipsCurrency'
+        placeholder='currency'
         property='currency'
     />
     <Boolean
-        placeholder='membershipsApprovalRequired'
+        placeholder='approvalRequired'
         property='approvalRequired'
     />
     <LongText
-        placeholder='coreDescription'
+        placeholder='description'
         property='description'
     />
 </>
