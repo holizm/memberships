@@ -39,7 +39,7 @@ membershipApplication
     unique number
     uses
         stateMachines
-membership
+membership searchable
     memberNumber
     member
     membershipType
