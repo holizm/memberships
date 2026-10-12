@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Ansøger",
-        "applicationDate": "Ansøgningsdato",
-        "approvalRequired": "Godkendelse påkrævet",
         "durationDays": "Varighed i dage",
-        "fee": "Kontingent",
         "member": "Medlem",
         "memberNumber": "Medlemsnummer",
         "membership": "Medlemskab",

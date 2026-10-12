@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "અરજદાર",
-        "applicationDate": "અરજીની તારીખ",
-        "approvalRequired": "મંજૂરી જરૂરી",
         "durationDays": "દિવસોમાં અવધિ",
-        "fee": "ફી",
         "member": "સભ્ય",
         "memberNumber": "સભ્ય નંબર",
         "membership": "સભ્યપદ",

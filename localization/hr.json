@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Podnositelj zahtjeva",
-        "applicationDate": "Datum prijave",
-        "approvalRequired": "Potrebno odobrenje",
         "durationDays": "Trajanje u danima",
-        "fee": "Članarina",
         "member": "Član",
         "memberNumber": "Članski broj",
         "membership": "Članstvo",

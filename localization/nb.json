@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Søker",
-        "applicationDate": "Søknadsdato",
-        "approvalRequired": "Godkjenning kreves",
         "durationDays": "Varighet i dager",
-        "fee": "Avgift",
         "member": "Medlem",
         "memberNumber": "Medlemsnummer",
         "membership": "Medlemskap",

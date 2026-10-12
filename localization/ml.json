@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "അപേക്ഷകൻ",
-        "applicationDate": "അപേക്ഷാ തീയതി",
-        "approvalRequired": "അംഗീകാരം ആവശ്യമാണ്",
         "durationDays": "ദിവസങ്ങളിലെ കാലാവധി",
-        "fee": "ഫീസ്",
         "member": "അംഗം",
         "memberNumber": "അംഗ നമ്പർ",
         "membership": "അംഗത്വം",

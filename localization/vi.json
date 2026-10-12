@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Người đăng ký",
-        "applicationDate": "Ngày đăng ký",
-        "approvalRequired": "Cần phê duyệt",
         "durationDays": "Thời hạn theo ngày",
-        "fee": "Phí",
         "member": "Thành viên",
         "memberNumber": "Mã thành viên",
         "membership": "Tư cách thành viên",

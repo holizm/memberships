@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "አመልካች",
-        "applicationDate": "የማመልከቻ ቀን",
-        "approvalRequired": "ማጽደቅ ያስፈልጋል",
         "durationDays": "ቆይታ በቀናት",
-        "fee": "ክፍያ",
         "member": "አባል",
         "memberNumber": "የአባልነት ቁጥር",
         "membership": "አባልነት",

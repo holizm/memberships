@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Applicant",
-        "applicationDate": "Application date",
-        "approvalRequired": "Approval required",
         "durationDays": "Duration in days",
-        "fee": "Fee",
         "member": "Member",
         "memberNumber": "Member number",
         "membership": "Membership",

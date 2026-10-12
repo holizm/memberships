@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Hakija",
-        "applicationDate": "Hakemuspäivä",
-        "approvalRequired": "Hyväksyntä vaaditaan",
         "durationDays": "Kesto päivinä",
-        "fee": "Jäsenmaksu",
         "member": "Jäsen",
         "memberNumber": "Jäsennumero",
         "membership": "Jäsenyys",

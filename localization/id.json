@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Pemohon",
-        "applicationDate": "Tanggal permohonan",
-        "approvalRequired": "Memerlukan persetujuan",
         "durationDays": "Durasi dalam hari",
-        "fee": "Iuran",
         "member": "Anggota",
         "memberNumber": "Nomor anggota",
         "membership": "Keanggotaan",

@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "ಅರ್ಜಿದಾರ",
-        "applicationDate": "ಅರ್ಜಿ ದಿನಾಂಕ",
-        "approvalRequired": "ಅನುಮೋದನೆ ಅಗತ್ಯ",
         "durationDays": "ದಿನಗಳಲ್ಲಿ ಅವಧಿ",
-        "fee": "ಶುಲ್ಕ",
         "member": "ಸದಸ್ಯ",
         "memberNumber": "ಸದಸ್ಯ ಸಂಖ್ಯೆ",
         "membership": "ಸದಸ್ಯತ್ವ",

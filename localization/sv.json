@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Sökande",
-        "applicationDate": "Ansökningsdatum",
-        "approvalRequired": "Godkännande krävs",
         "durationDays": "Varaktighet i dagar",
-        "fee": "Avgift",
         "member": "Medlem",
         "memberNumber": "Medlemsnummer",
         "membership": "Medlemskap",

@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Kérelmező",
-        "applicationDate": "Kérelem dátuma",
-        "approvalRequired": "Jóváhagyás szükséges",
         "durationDays": "Időtartam napokban",
-        "fee": "Tagdíj",
         "member": "Tag",
         "memberNumber": "Tagsági szám",
         "membership": "Tagság",

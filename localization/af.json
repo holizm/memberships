@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Aansoeker",
-        "applicationDate": "Aansoekdatum",
-        "approvalRequired": "Goedkeuring vereis",
         "durationDays": "Tydsduur in dae",
-        "fee": "Ledegeld",
         "member": "Lid",
         "memberNumber": "Lidnommer",
         "membership": "Lidmaatskap",

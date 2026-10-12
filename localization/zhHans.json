@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "申请人",
-        "applicationDate": "申请日期",
-        "approvalRequired": "需要审批",
         "durationDays": "有效天数",
-        "fee": "费用",
         "member": "会员",
         "memberNumber": "会员编号",
         "membership": "会员资格",

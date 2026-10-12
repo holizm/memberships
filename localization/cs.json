@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Žadatel",
-        "applicationDate": "Datum žádosti",
-        "approvalRequired": "Vyžaduje schválení",
         "durationDays": "Doba trvání ve dnech",
-        "fee": "Poplatek",
         "member": "Člen",
         "memberNumber": "Členské číslo",
         "membership": "Členství",

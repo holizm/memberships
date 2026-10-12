@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "ผู้สมัคร",
-        "applicationDate": "วันที่สมัคร",
-        "approvalRequired": "ต้องได้รับการอนุมัติ",
         "durationDays": "ระยะเวลาเป็นวัน",
-        "fee": "ค่าธรรมเนียม",
         "member": "สมาชิก",
         "memberNumber": "หมายเลขสมาชิก",
         "membership": "การเป็นสมาชิก",

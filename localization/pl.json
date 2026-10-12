@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Wnioskodawca",
-        "applicationDate": "Data złożenia wniosku",
-        "approvalRequired": "Wymagane zatwierdzenie",
         "durationDays": "Czas trwania w dniach",
-        "fee": "Opłata",
         "member": "Członek",
         "memberNumber": "Numer członkowski",
         "membership": "Członkostwo",

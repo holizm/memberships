@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Başvuru sahibi",
-        "applicationDate": "Başvuru tarihi",
-        "approvalRequired": "Onay gerekli",
         "durationDays": "Gün cinsinden süre",
-        "fee": "Ücret",
         "member": "Üye",
         "memberNumber": "Üye numarası",
         "membership": "Üyelik",

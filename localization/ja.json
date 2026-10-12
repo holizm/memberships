@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "申請者",
-        "applicationDate": "申請日",
-        "approvalRequired": "承認が必要",
         "durationDays": "期間（日数）",
-        "fee": "会費",
         "member": "会員",
         "memberNumber": "会員番号",
         "membership": "会員資格",

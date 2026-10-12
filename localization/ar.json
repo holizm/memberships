@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "مقدم الطلب",
-        "applicationDate": "تاريخ الطلب",
-        "approvalRequired": "الموافقة مطلوبة",
         "durationDays": "المدة بالأيام",
-        "fee": "الرسوم",
         "member": "عضو",
         "memberNumber": "رقم العضو",
         "membership": "عضوية",

@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "신청자",
-        "applicationDate": "신청일",
-        "approvalRequired": "승인 필요",
         "durationDays": "기간(일)",
-        "fee": "회비",
         "member": "회원",
         "memberNumber": "회원 번호",
         "membership": "회원 자격",

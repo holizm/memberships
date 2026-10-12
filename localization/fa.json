@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "متقاضی",
-        "applicationDate": "تاریخ درخواست",
-        "approvalRequired": "نیازمند تأیید",
         "durationDays": "مدت به روز",
-        "fee": "هزینه عضویت",
         "member": "عضو",
         "memberNumber": "شماره عضویت",
         "membership": "عضویت",

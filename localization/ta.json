@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "விண்ணப்பதாரர்",
-        "applicationDate": "விண்ணப்ப தேதி",
-        "approvalRequired": "ஒப்புதல் தேவை",
         "durationDays": "நாட்களில் காலம்",
-        "fee": "கட்டணம்",
         "member": "உறுப்பினர்",
         "memberNumber": "உறுப்பினர் எண்",
         "membership": "உறுப்பினர் நிலை",

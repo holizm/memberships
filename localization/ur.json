@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "درخواست دہندہ",
-        "applicationDate": "درخواست کی تاریخ",
-        "approvalRequired": "منظوری درکار ہے",
         "durationDays": "دنوں میں مدت",
-        "fee": "فیس",
         "member": "رکن",
         "memberNumber": "رکن نمبر",
         "membership": "رکنیت",

@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Solicitant",
-        "applicationDate": "Data cererii",
-        "approvalRequired": "Este necesară aprobarea",
         "durationDays": "Durată în zile",
-        "fee": "Cotizație",
         "member": "Membru",
         "memberNumber": "Număr de membru",
         "membership": "Calitate de membru",

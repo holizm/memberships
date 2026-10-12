@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Заявник",
-        "applicationDate": "Дата подання заявки",
-        "approvalRequired": "Потрібне схвалення",
         "durationDays": "Тривалість у днях",
-        "fee": "Внесок",
         "member": "Член",
         "memberNumber": "Членський номер",
         "membership": "Членство",

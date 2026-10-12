@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "अर्जदार",
-        "applicationDate": "अर्जाची तारीख",
-        "approvalRequired": "मंजुरी आवश्यक",
         "durationDays": "दिवसांमध्ये कालावधी",
-        "fee": "शुल्क",
         "member": "सदस्य",
         "memberNumber": "सदस्य क्रमांक",
         "membership": "सदस्यत्व",

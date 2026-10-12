@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "מגיש הבקשה",
-        "applicationDate": "תאריך הבקשה",
-        "approvalRequired": "נדרש אישור",
         "durationDays": "משך בימים",
-        "fee": "דמי חברות",
         "member": "חבר",
         "memberNumber": "מספר חבר",
         "membership": "חברות",

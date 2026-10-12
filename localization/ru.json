@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Заявитель",
-        "applicationDate": "Дата подачи заявки",
-        "approvalRequired": "Требуется одобрение",
         "durationDays": "Срок в днях",
-        "fee": "Взнос",
         "member": "Член",
         "memberNumber": "Членский номер",
         "membership": "Членство",

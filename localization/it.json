@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Richiedente",
-        "applicationDate": "Data della domanda",
-        "approvalRequired": "Approvazione richiesta",
         "durationDays": "Durata in giorni",
-        "fee": "Quota",
         "member": "Socio",
         "memberNumber": "Numero di socio",
         "membership": "Adesione",

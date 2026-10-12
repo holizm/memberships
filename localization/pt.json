@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Requerente",
-        "applicationDate": "Data da candidatura",
-        "approvalRequired": "Aprovação necessária",
         "durationDays": "Duração em dias",
-        "fee": "Quota",
         "member": "Membro",
         "memberNumber": "Número de membro",
         "membership": "Adesão",

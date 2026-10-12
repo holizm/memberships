@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "আবেদনকারী",
-        "applicationDate": "আবেদনের তারিখ",
-        "approvalRequired": "অনুমোদন প্রয়োজন",
         "durationDays": "দিনে মেয়াদ",
-        "fee": "ফি",
         "member": "সদস্য",
         "memberNumber": "সদস্য নম্বর",
         "membership": "সদস্যপদ",

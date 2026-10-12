@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Αιτών",
-        "applicationDate": "Ημερομηνία αίτησης",
-        "approvalRequired": "Απαιτείται έγκριση",
         "durationDays": "Διάρκεια σε ημέρες",
-        "fee": "Συνδρομή",
         "member": "Μέλος",
         "memberNumber": "Αριθμός μέλους",
         "membership": "Συνδρομή",

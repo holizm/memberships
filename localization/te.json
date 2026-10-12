@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "దరఖాస్తుదారు",
-        "applicationDate": "దరఖాస్తు తేదీ",
-        "approvalRequired": "ఆమోదం అవసరం",
         "durationDays": "రోజుల్లో వ్యవధి",
-        "fee": "రుసుము",
         "member": "సభ్యుడు",
         "memberNumber": "సభ్యత్వ సంఖ్య",
         "membership": "సభ్యత్వం",

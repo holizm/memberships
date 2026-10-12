@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "လျှောက်ထားသူ",
-        "applicationDate": "လျှောက်ထားသည့်ရက်",
-        "approvalRequired": "အတည်ပြုချက် လိုအပ်သည်",
         "durationDays": "ရက်အလိုက် သက်တမ်း",
-        "fee": "အခကြေးငွေ",
         "member": "အဖွဲ့ဝင်",
         "memberNumber": "အဖွဲ့ဝင်နံပါတ်",
         "membership": "အဖွဲ့ဝင်မှု",

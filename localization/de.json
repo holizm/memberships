@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Antragsteller",
-        "applicationDate": "Antragsdatum",
-        "approvalRequired": "Genehmigung erforderlich",
         "durationDays": "Dauer in Tagen",
-        "fee": "Beitrag",
         "member": "Mitglied",
         "memberNumber": "Mitgliedsnummer",
         "membership": "Mitgliedschaft",

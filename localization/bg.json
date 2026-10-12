@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Кандидат",
-        "applicationDate": "Дата на кандидатстване",
-        "approvalRequired": "Изисква се одобрение",
         "durationDays": "Продължителност в дни",
-        "fee": "Такса",
         "member": "Член",
         "memberNumber": "Членски номер",
         "membership": "Членство",

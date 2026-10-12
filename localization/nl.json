@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Aanvrager",
-        "applicationDate": "Aanvraagdatum",
-        "approvalRequired": "Goedkeuring vereist",
         "durationDays": "Duur in dagen",
-        "fee": "Contributie",
         "member": "Lid",
         "memberNumber": "Lidnummer",
         "membership": "Lidmaatschap",

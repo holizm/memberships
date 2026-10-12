@@ -1,10 +1,7 @@
 {
     "common": {
         "applicant": "Aplikante",
-        "applicationDate": "Petsa ng aplikasyon",
-        "approvalRequired": "Kailangan ng pag-apruba",
         "durationDays": "Tagal sa mga araw",
-        "fee": "Bayad",
         "member": "Miyembro",
         "memberNumber": "Numero ng miyembro",
         "membership": "Pagiging miyembro",
